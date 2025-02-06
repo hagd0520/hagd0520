@@ -4,6 +4,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hagd0520&layout=compact&theme=default)
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/hagd0520)
+
 <!--
 **hagd0520/hagd0520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
